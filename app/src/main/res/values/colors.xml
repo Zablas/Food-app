@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="topText">#ff8c1a</color>
+    <color name="buttonText">#b82e8a</color>
+    <color name="introBackgroundStart">#ff9933</color>
+    <color name="introBackgroundEnd">#ffbf80</color>
+    <color name="offerBackgroundStart">#ff9933</color>
+    <color name="offerBackgroundEnd">#ffbf80</color>
+    <color name="buttonColour">#5855BD</color>
+</resources>

@@ -1,0 +1,49 @@
+# this is an auto generated file. This will be overwritten
+mutation CreateOfferGql(
+  $input: CreateOfferGQLInput!
+  $condition: ModelOfferGQLConditionInput
+) {
+  createOfferGQL(input: $input, condition: $condition) {
+    id
+    name
+    description
+    address
+    price
+    imageUrl
+    ownerUsername
+    createdAt
+    updatedAt
+  }
+}
+mutation UpdateOfferGql(
+  $input: UpdateOfferGQLInput!
+  $condition: ModelOfferGQLConditionInput
+) {
+  updateOfferGQL(input: $input, condition: $condition) {
+    id
+    name
+    description
+    address
+    price
+    imageUrl
+    ownerUsername
+    createdAt
+    updatedAt
+  }
+}
+mutation DeleteOfferGql(
+  $input: DeleteOfferGQLInput!
+  $condition: ModelOfferGQLConditionInput
+) {
+  deleteOfferGQL(input: $input, condition: $condition) {
+    id
+    name
+    description
+    address
+    price
+    imageUrl
+    ownerUsername
+    createdAt
+    updatedAt
+  }
+}

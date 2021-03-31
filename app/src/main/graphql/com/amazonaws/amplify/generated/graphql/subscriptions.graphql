@@ -1,0 +1,40 @@
+# this is an auto generated file. This will be overwritten
+subscription OnCreateOfferGql {
+  onCreateOfferGQL {
+    id
+    name
+    description
+    address
+    price
+    imageUrl
+    ownerUsername
+    createdAt
+    updatedAt
+  }
+}
+subscription OnUpdateOfferGql {
+  onUpdateOfferGQL {
+    id
+    name
+    description
+    address
+    price
+    imageUrl
+    ownerUsername
+    createdAt
+    updatedAt
+  }
+}
+subscription OnDeleteOfferGql {
+  onDeleteOfferGQL {
+    id
+    name
+    description
+    address
+    price
+    imageUrl
+    ownerUsername
+    createdAt
+    updatedAt
+  }
+}
